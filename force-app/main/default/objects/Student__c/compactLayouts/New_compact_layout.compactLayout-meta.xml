@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New_compact_layout</fullName>
+    <fields>Adhaar_card__c</fields>
+    <fields>Email__c</fields>
+    <fields>Student__c</fields>
+    <fields>Course_Opted__c</fields>
+    <label>New compact layout</label>
+</CompactLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Employee</fullName>
+    <active>true</active>
+    <label>Employee</label>
+    <picklistValues>
+        <picklist>Course_Opted__c</picklist>
+        <values>
+            <fullName>%2ENet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>C%2B%2B</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Java</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MySql</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Node</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Salesforce</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Course__c</picklist>
+        <values>
+            <fullName>Data Engineer</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Developer</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
