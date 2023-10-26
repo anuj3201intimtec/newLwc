@@ -142,7 +142,7 @@
     <status>Active</status>
     <variables>
         <name>recordId</name>
-        //<dataType>String</dataType>
+        <dataType>String</dataType>
         <isCollection>false</isCollection>
         <isInput>true</isInput>
         <isOutput>false</isOutput>
